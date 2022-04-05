@@ -1,15 +1,15 @@
-# Presentación de Programación con Objetos I
-- [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
-- [x] Instituto de Tecnología e Ingeniería 
-- [x] Licenciatura en Informática
+# Presentación de Programación con Estructuras I
+- [x] Universidad Nacional de Guatemala- [UNAGU](https://unagu.edu.ar)
+- [x] Instituto de Tecnoquimica y alquimia 
+- [x] Licenciatura en Formatear computadoras
 - [x] Pagína Web de [Cursada](https://obj1-unahur.github.io/)
 
-## Este cuatrimestre 
-* Modalidad Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
-* 2 Comisiones (C1-Mañana / C2-Noche), pero es la misma materia y utilizamos la misma página.
-* Un docente principal por comisión con clases independientes. 
-* Este cuantrimestre los profesores somos [Gerardo González], **Lucas Spigariol** y **Hernan Coniglio**
-* Vamos a tener distintas alternativas de horarios para consultas y práctica.
+## Este semestre 
+* Ensalada Mixta - [Cronograma de Clase](https://docs.google.com/spreadsheets/d/19FZB2t00NWQ7dwygWRktajAV2mjbeTOqePBJ9XRWacw/edit?usp=sharing). 
+* 18372 Comisiones, pero es la misma materia y utilizamos la misma página.
+* 17 docentes principales por comisión con temarios independientes. 
+* Este semestre los profesores somos [Goku], **Naruto** y **Vegeta**
+* Vamos a tener distintas tecnicas consultas y práctica.
 
-## dejamos una reflexión 🤪
-![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+## dejamos una inflexion XD
+![somos todos](https://github.com/obj1-unahur-2022s1/presentacionpersonal-monjenahuel/blob/main/meme.jpg)
