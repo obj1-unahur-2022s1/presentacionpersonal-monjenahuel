@@ -12,4 +12,4 @@
 * Vamos a tener distintas tecnicas consultas y práctica.
 
 ## dejamos una inflexion XD
-![somos todos](https://github.com/obj1-unahur-2022s1/presentacionpersonal-monjenahuel/blob/main/meme.jpg)
+![somos todos](https://github.com/obj1-unahur-2022s1/presentacionpersonal-monjenahuel/blob/main/meme2.jpg)
